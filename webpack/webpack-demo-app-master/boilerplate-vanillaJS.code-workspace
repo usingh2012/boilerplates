@@ -1,0 +1,20 @@
+{
+  "folders": [
+	{
+		"path": "../../myprojects/boilerplate-vanillaJS"
+	},
+	{
+		"path": "../../myprojects/simpleProject"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "../../microfrontends/code/010_-_mfe"
+	},
+	{
+		"path": "../../myprojects/bp-VanillaJS"
+	}
+],
+  "settings": {}
+}

@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=document.getElementById("app-root"),t=document.createElement("img");t.setAttribute("src","810241509ec92fea41ab.jpg");const n=document.createElement("section"),c=document.createElement("h1"),d=document.createTextNode("Welcome to webpack-configuration! and another testing test");c.appendChild(d),e.appendChild(c),e.appendChild(n),n.appendChild(t)})();
